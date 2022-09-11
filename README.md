@@ -1,12 +1,8 @@
 <h1>Movie Recommendor</h1>
 This application helps user to find out what is the meaning of 12 emojis.
 
-<h1>Following movie genre are shown:</h1>
-<ul>
-    <li>Drama</li>
-    <li>Action</li>
-    <li>Comedy</li>
-</ul>
+<h1>Following images are translated</h1>
+😊😳😔🥡❤️😑🪔⚽🏈🏉🐵🐶
 
 <h1>How to run this application on your computer/laptop?</h1>
 Download the project from Github.
@@ -22,4 +18,4 @@ To open code type "code ."
     <li>ReactJS</li>
 </ul>
 
-<img></img>
+<img src="/public/images/EmojiTranslator.PNG">
