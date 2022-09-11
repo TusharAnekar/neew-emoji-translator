@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import { useState } from 'react';
 
@@ -46,7 +45,7 @@ function App() {
         <p>This application helps user to find out what is the meaning of 12 emojis.</p>
       </div>
 
-      <img src="/images/emoji.jpg"></img>
+      <img src="/images/emoji.jpg" alt=''></img>
 
       <input onChange={emojiInputHandler}></input>
       <h2>{meaning}</h2>
@@ -65,9 +64,9 @@ function App() {
 
       <footer>
       <h3>Connect with me here:</h3>
-        <a class="footer-links" href="https://www.linkedin.com/in/tushar-anekar-435033a9/" target="_blank" rel="noopener norefferrer">LinkedIn</a>
-        <a class="footer-links" href="https://twitter.com/TusharAnekar" target="_blank" rel="noopener norefferrer">Twitter</a>
-        <a class="footer-links" href="https://github.com/TusharAnekar" target="_blank" rel="noopener norefferrer">GitHub</a>
+        <a class="footer-links" href="https://www.linkedin.com/in/tushar-anekar-435033a9/" target="_blank" rel="noreferrer">LinkedIn</a>
+        <a class="footer-links" href="https://twitter.com/TusharAnekar" target="_blank" rel="noreferrer">Twitter</a>
+        <a class="footer-links" href="https://github.com/TusharAnekar" target="_blank" rel="noreferrer">GitHub</a>
       </footer>
     </div>
   );
