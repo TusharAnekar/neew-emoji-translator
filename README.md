@@ -18,4 +18,4 @@ To open code type "code ."
     <li>ReactJS</li>
 </ul>
 
-<img src="/images/EmojiTranslator.PNG"></img>
+<img src="public/images/EmojiTranslator.PNG"></img>
