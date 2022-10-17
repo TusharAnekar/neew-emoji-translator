@@ -64,7 +64,7 @@ function App() {
 
       <footer>
       <h3>Connect with me here:</h3>
-        <a class="footer-links" href="https://www.linkedin.com/in/tushar-anekar-435033a9/" target="_blank" rel="noreferrer">LinkedIn</a>
+        <a class="footer-links" href="https://www.linkedin.com/in/tusharanekar" target="_blank" rel="noreferrer">LinkedIn</a>
         <a class="footer-links" href="https://twitter.com/TusharAnekar" target="_blank" rel="noreferrer">Twitter</a>
         <a class="footer-links" href="https://github.com/TusharAnekar" target="_blank" rel="noreferrer">GitHub</a>
       </footer>
